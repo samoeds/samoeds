@@ -11,7 +11,7 @@
 
 
 
-<p>Python Software Engineer and CG artist.</p>
+<p>Python Software Engineer and senior CG artist.</p>
 <p>I'm specialized in texturing, surfacing, compositing, color-science and image-processing, pipeline tools development and process automation.</p>
 
 
