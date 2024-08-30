@@ -11,8 +11,8 @@
 
 
 
-Python Software Engineer and CG artist.
-I'm specialized in texturing, surfacing, compositing, color-science and image-processing.
+<p>Python Software Engineer and CG artist.</p>
+<p>I'm specialized in texturing, surfacing, compositing, color-science and image-processing, pipeline tools development and process automation.</p>
 
 
 
