@@ -1,4 +1,4 @@
-<h1>Elena Gocharenko</h1>
+<h1>Elena Goncharenko</h1>
 
 <img src="https://img.shields.io/badge/python-000000?labelColor=111111&logo=python&logoColor=ffde57" alt="Python Badge"> <img src="https://img.shields.io/badge/Qt-000000?labelColor=111111&logo=Qt&logoColor=41cd52" alt="Qt Badge">
 <img src="https://img.shields.io/badge/houdini-000000?labelColor=111111&logo=houdini&logoColor=ff471a" alt="Houdini Badge">
