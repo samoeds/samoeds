@@ -11,7 +11,7 @@
 
 
 
-<p>Hey, I'm Python Software Engineer and Senior Texture/Lookdevelopment artist.</p>
+<p>Hey, I'm Python Software Engineer and Senior Texture/Lookdevelopment artist. Prev: Dneg</p>
 <p>I'm specialized in texturing, surfacing, compositing. Pipeline tools development and process automation are my passion ✨</p>
 
 
